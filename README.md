@@ -23,8 +23,7 @@ yarn start # open localhost:3000`
 Marvellapp allowed to make a preliminary design of the page
 
  https://marvelapp.com/prototype/94ae0bd
-
-[Wireframe](https://marvelapp.com/prototype/94ae0bd)
+(https://marvelapp.com/prototype/94ae0bd)
 ![Home](https://i.ibb.co/nfrbwHN/wireframe.png)
 ![Catch Pokemon](https://i.ibb.co/Ycq5kSp/2020-10-16-12-02-23-React-to-Pok-mon-APIs-Image-2.png)
 ![Index](https://i.ibb.co/c28QDWW/2020-10-16-12-03-03-React-to-Pok-mon-APIs-Image-4.png)
