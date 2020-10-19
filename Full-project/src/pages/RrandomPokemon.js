@@ -7,12 +7,12 @@ const RrandomPokemon = (props) => {
       <RandomPokemon col={props.col} />
       <div className="page home">
         <div className="campo">
-          <img className="campito" />
+          <img alt="campito" className="campito" />
           <div className="pokedex">
-            <img className="pokedex2" />
+            <img alt="pokedex2" className="pokedex2" />
             <div className="arbusto">
               <div className="bola">
-                <img className="bola2" />
+                <img alt="bola2" className="bola2" />
               </div>
             </div>
           </div>

@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Switch, BrowserRouter, Route } from 'react-router-dom';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
-import RandomPokemon from './components/randomPokemon.js';
-import Buttons from './components/Buttons.js';
 import Pokedex from './components/Pokedex.js';
 import Home from '../pages/Home';
 import ErrorPage from '../pages/ErrorPage.js';

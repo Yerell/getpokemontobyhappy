@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <main className="page home">
     <div className="pokeball"></div>
-    <div className="logo"><img className="foto"/></div>
+    <div className="logo"><img alt="foto" className="foto"/></div>
     <div className="franja"></div>
     <div className="boton"></div>
     <div className="botoncito"></div>

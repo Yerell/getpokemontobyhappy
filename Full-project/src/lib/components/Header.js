@@ -17,7 +17,7 @@ const Header = () => {
         </li>
         <li className="logo-container">
           <a href="/" className="logo-container">
-            <img className="pika-sprite" />
+            <img alt="pika-sprite" className="pika-sprite" />
             Home
           </a>
         </li>

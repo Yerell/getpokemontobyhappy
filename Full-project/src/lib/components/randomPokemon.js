@@ -1,7 +1,4 @@
 import React from 'react';
-import Buttons from './Buttons';
-import { Link, useParams } from 'react-router-dom';
-import { useState } from 'react';
 import GetPokemonById from './getPokemonbyId.js';
 
 // URL of the API
@@ -63,7 +60,7 @@ class RandomPokemon extends React.Component {
           className={`wildPokemon ${this.state.animation ? 'parpadear' : ''}`}
         >
           <h5>{this.state.name}</h5>
-          <img className="prueba" src={this.state.img} />
+          <img alt="prueba" className="prueba" src={this.state.img} />
         </div>
         <button onClick={() => this.pokemonToPokedex()}>Catch</button>
         <button onClick={() => this.getNewPokemon()}>Escape</button>
